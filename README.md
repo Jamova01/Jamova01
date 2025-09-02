@@ -1,10 +1,12 @@
 # 🌍 Hello, I'm Jorge Armando Morales! 👋💻
 
-### 🚀 Full Stack Developer | React.js | Node.js | PostgreSQL | Python
+### 🚀 Backend Developer | Node.js | Python | Django | FastAPI | PostgreSQL
 
-I'm a passionate **Full Stack Developer** with over 3 years of experience in building scalable web applications and efficient software solutions. I specialize in **frontend technologies** like **React.js, Angular, and Next.js**, and **backend development** using **Node.js, Python, and Java**.
+I'm a passionate **Backend Developer** with 3+ years of experience building **secure and scalable applications**. I specialize in **Node.js, Python, Django, and FastAPI**, with strong expertise in **PostgreSQL and SQL** for efficient data management.
 
-I thrive on innovation and continuous learning to stay updated with the latest trends in software development.
+While my main focus is backend development — APIs, authentication, and clean architectures — I also have **solid frontend skills** with **React.js, Angular, and Next.js**, which allow me to work across the stack and deliver complete solutions.
+
+I thrive on continuous learning, innovation, and creating software that makes an impact.
 
 📍 **Cali, Colombia**  
 📧 [jorgemova01@gmail.com](mailto:jorgemova01@gmail.com)  
@@ -29,7 +31,6 @@ I thrive on innovation and continuous learning to stay updated with the latest t
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🗄️ Databases
 
